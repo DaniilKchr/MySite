@@ -1,0 +1,11 @@
+
+.out {
+
+
+  height: 800px;
+display: flex;
+justify-content: center;
+}
+
+
+.image {margin: auto;}
