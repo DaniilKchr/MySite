@@ -1,0 +1,27 @@
+
+
+
+.list-conteiner {
+float: right;
+border-style: solid;
+display: inline-block;
+padding-right: 15px;
+
+}
+.list-conteiner>ol>p {
+text-align: center;
+font-weight: bold;
+}
+.list-conteiner>ol>a>img {width: 50px; height: 50px;
+float: center;
+
+}
+.bold {font-weight: bold;}
+.list-conteiner2 {
+    float: left;
+    display: inline-block;
+    border-style:solid;
+    padding-right: 15px;
+}
+.list-conteiner2>ol>p {font-weight: bold}
+.text1 {float:center}
